@@ -25,6 +25,12 @@ const rarityTextStyles = {
   传说: "text-achievementYellow",
 };
 
+const assetBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
+function publicAssetPath(path: string) {
+  return `${assetBasePath}${path}`;
+}
+
 export default function Home() {
   const [stage, setStage] = useState<Stage>("home");
   const [questionIndex, setQuestionIndex] = useState(0);
@@ -441,7 +447,7 @@ function AchievementIconButton({
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           className="h-full w-full object-contain"
-          src={`/achievements/${achievement.id}.svg`}
+          src={publicAssetPath(`/achievements/${achievement.id}.svg`)}
           alt=""
           aria-hidden="true"
         />
@@ -474,7 +480,7 @@ function AchievementDetailModal({
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             className="aspect-square w-full rounded-lg border border-achievementYellow/70 bg-cardBlack object-contain"
-            src={`/achievements/${achievement.id}.svg`}
+            src={publicAssetPath(`/achievements/${achievement.id}.svg`)}
             alt={achievement.title}
           />
           <div className="min-w-0">
