@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="后刃觉醒">
+  <rect width="512" height="512" fill="#0f0e0b"/>
+  <rect x="28" y="28" width="456" height="456" rx="8" fill="#181612" stroke="#3a3129" stroke-width="7"/>
+  <rect x="55" y="55" width="402" height="402" rx="4" fill="#11100d" stroke="#a8a29e" stroke-width="8"/>
+  <path d="M82 360 H424" fill="none" stroke="#4b4036" stroke-width="5" opacity=".55"/>
+  <path d="M92 336 C150 302 202 372 270 328 C328 290 382 306 430 276" fill="none" stroke="#4b4036" stroke-width="5" opacity=".5"/>
+  <g fill="none" stroke="#a8a29e" stroke-linecap="round" stroke-linejoin="round" stroke-width="14">
+    
+    <circle cx="190" cy="148" r="34" fill="#a8a29e" stroke="none"/>
+    <path d="M183 190 L146 268 L206 294 L266 354"/>
+    <path d="M209 209 L275 238 L338 207"/>
+    <path d="M118 354 C197 382 293 384 394 352"/>
+    <path d="M126 324 L382 394"/>
+    <path d="M336 116 L400 116 L372 148 L404 180 L336 180"/>
+    
+    <circle cx="384" cy="124" r="8" fill="#a8a29e" stroke="none"/>
+    <path d="M421 139 L421 108 M405 123 L437 123"/>
+    <path d="M106 126 L106 98 M92 112 L121 112"/>
+  </g>
+  <g fill="#a8a29e">
+    <circle cx="398" cy="112" r="13"/>
+    <path d="M398 72 L407 98 L434 98 L412 113 L421 139 L398 123 L376 139 L384 113 L362 98 L390 98 Z"/>
+  </g>
+  <rect x="83" y="393" width="346" height="46" rx="5" fill="#0f0e0b" stroke="#a8a29e" stroke-width="4"/>
+  <text x="256" y="426" text-anchor="middle" font-size="27" font-weight="900" fill="#f4efe7" font-family="Consolas, 'Microsoft YaHei', monospace">后刃觉醒</text>
+  <circle cx="103" cy="98" r="24" fill="#0f0e0b" stroke="#a8a29e" stroke-width="7"/>
+  <text x="103" y="108" text-anchor="middle" font-size="25" font-weight="900" fill="#a8a29e" font-family="Arial, 'Microsoft YaHei', sans-serif">刷</text>
+</svg>

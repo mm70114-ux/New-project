@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="红眼开滑">
+  <rect width="512" height="512" fill="#0f0e0b"/>
+  <rect x="28" y="28" width="456" height="456" rx="8" fill="#181612" stroke="#3a3129" stroke-width="7"/>
+  <rect x="55" y="55" width="402" height="402" rx="4" fill="#11100d" stroke="#5b9a91" stroke-width="8"/>
+  <path d="M82 360 H424" fill="none" stroke="#4b4036" stroke-width="5" opacity=".55"/>
+  <path d="M92 336 C150 302 202 372 270 328 C328 290 382 306 430 276" fill="none" stroke="#4b4036" stroke-width="5" opacity=".5"/>
+  <g fill="none" stroke="#5b9a91" stroke-linecap="round" stroke-linejoin="round" stroke-width="14">
+    
+    <circle cx="179" cy="161" r="31" fill="#5b9a91" stroke="none"/>
+    <path d="M166 205 L139 284 L205 302 L260 357"/>
+    <path d="M205 218 L278 190 L327 216"/>
+    <path d="M300 103 H407 V170 H300 Z"/>
+    <path d="M326 137 H381"/>
+    <path d="M112 357 C196 389 292 389 396 357"/>
+    <path d="M98 257 C126 234 154 236 180 263"/>
+    <path d="M118 212 C96 184 97 151 123 129"/>
+    <path d="M342 223 L376 251 L339 279"/>
+    <path d="M310 316 L384 316"/>
+  </g>
+  <g fill="#5b9a91">
+    <circle cx="398" cy="112" r="13"/>
+    <path d="M398 72 L407 98 L434 98 L412 113 L421 139 L398 123 L376 139 L384 113 L362 98 L390 98 Z"/>
+  </g>
+  <rect x="83" y="393" width="346" height="46" rx="5" fill="#0f0e0b" stroke="#5b9a91" stroke-width="4"/>
+  <text x="256" y="426" text-anchor="middle" font-size="27" font-weight="900" fill="#f4efe7" font-family="Consolas, 'Microsoft YaHei', monospace">红眼开滑</text>
+  <circle cx="103" cy="98" r="24" fill="#0f0e0b" stroke="#5b9a91" stroke-width="7"/>
+  <text x="103" y="108" text-anchor="middle" font-size="25" font-weight="900" fill="#5b9a91" font-family="Arial, 'Microsoft YaHei', sans-serif">行</text>
+</svg>

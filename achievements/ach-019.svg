@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="体面倒下">
+  <rect width="512" height="512" fill="#0f0e0b"/>
+  <rect x="28" y="28" width="456" height="456" rx="8" fill="#181612" stroke="#3a3129" stroke-width="7"/>
+  <rect x="55" y="55" width="402" height="402" rx="4" fill="#11100d" stroke="#a8a29e" stroke-width="8"/>
+  <path d="M82 360 H424" fill="none" stroke="#4b4036" stroke-width="5" opacity=".55"/>
+  <path d="M92 336 C150 302 202 372 270 328 C328 290 382 306 430 276" fill="none" stroke="#4b4036" stroke-width="5" opacity=".5"/>
+  <g fill="none" stroke="#a8a29e" stroke-linecap="round" stroke-linejoin="round" stroke-width="14">
+    
+    <circle cx="165" cy="169" r="29" fill="#a8a29e" stroke="none"/>
+    <path d="M142 218 L108 308"/>
+    <path d="M184 218 L227 298"/>
+    <path d="M232 122 H367 V293 H232 Z"/>
+    <path d="M260 168 H342 M260 213 H321"/>
+    <path d="M257 251 C293 224 324 226 355 252"/>
+    <path d="M104 362 C178 326 251 387 330 338"/>
+    <path d="M312 338 L325 371 L356 309"/>
+  </g>
+  <g fill="#a8a29e">
+    <circle cx="398" cy="112" r="13"/>
+    <path d="M398 72 L407 98 L434 98 L412 113 L421 139 L398 123 L376 139 L384 113 L362 98 L390 98 Z"/>
+  </g>
+  <rect x="83" y="393" width="346" height="46" rx="5" fill="#0f0e0b" stroke="#a8a29e" stroke-width="4"/>
+  <text x="256" y="426" text-anchor="middle" font-size="27" font-weight="900" fill="#f4efe7" font-family="Consolas, 'Microsoft YaHei', monospace">体面倒下</text>
+  <circle cx="103" cy="98" r="24" fill="#0f0e0b" stroke="#a8a29e" stroke-width="7"/>
+  <text x="103" y="108" text-anchor="middle" font-size="25" font-weight="900" fill="#a8a29e" font-family="Arial, 'Microsoft YaHei', sans-serif">护</text>
+</svg>
