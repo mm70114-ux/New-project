@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="粉雪洗脸">
+  <rect width="512" height="512" fill="#0f0e0b"/>
+  <rect x="28" y="28" width="456" height="456" rx="8" fill="#181612" stroke="#3a3129" stroke-width="7"/>
+  <rect x="55" y="55" width="402" height="402" rx="4" fill="#11100d" stroke="#5b9a91" stroke-width="8"/>
+  <path d="M82 360 H424" fill="none" stroke="#4b4036" stroke-width="5" opacity=".55"/>
+  <path d="M92 336 C150 302 202 372 270 328 C328 290 382 306 430 276" fill="none" stroke="#4b4036" stroke-width="5" opacity=".5"/>
+  <g fill="none" stroke="#5b9a91" stroke-linecap="round" stroke-linejoin="round" stroke-width="14">
+    
+    <path d="M92 330 C136 285 177 285 222 330 S314 374 370 316 S426 285 446 316"/>
+    <path d="M121 263 C174 216 231 218 283 268"/>
+    <path d="M227 199 C268 157 322 157 363 199"/>
+    <circle cx="158" cy="121" r="20" fill="#5b9a91" stroke="none"/>
+    <path d="M156 76 V54 M156 188 V166 M111 121 H89 M223 121 H201"/>
+    <path d="M322 102 L362 82 L399 111"/>
+  </g>
+  <g fill="#5b9a91">
+    <circle cx="398" cy="112" r="13"/>
+    <path d="M398 72 L407 98 L434 98 L412 113 L421 139 L398 123 L376 139 L384 113 L362 98 L390 98 Z"/>
+  </g>
+  <rect x="83" y="393" width="346" height="46" rx="5" fill="#0f0e0b" stroke="#5b9a91" stroke-width="4"/>
+  <text x="256" y="426" text-anchor="middle" font-size="27" font-weight="900" fill="#f4efe7" font-family="Consolas, 'Microsoft YaHei', monospace">粉雪洗脸</text>
+  <circle cx="103" cy="98" r="24" fill="#0f0e0b" stroke="#5b9a91" stroke-width="7"/>
+  <text x="103" y="108" text-anchor="middle" font-size="25" font-weight="900" fill="#5b9a91" font-family="Arial, 'Microsoft YaHei', sans-serif">粉</text>
+</svg>
